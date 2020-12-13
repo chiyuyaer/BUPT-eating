@@ -1,0 +1,70 @@
+<view class="background6" style="opacity:{{0.9}}">
+<view class="fontStyle"><view class="view1"> <text>教工食堂一层——美味快餐</text> </view></view>
+<view class="fontStyle2"><view class="view2"><text>早餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text> 寿司（紫菜包饭）</text></view>
+  <view class="view3"><text>燕麦粥</text></view>
+  <view class="view3"><text>红枣枸杞粥</text></view>
+  <view class="view3"><text>紫薯粥</text></view>
+  <view class="view3"><text>皮蛋粥</text></view>
+  <view class="view3"><text>蛋花汤</text></view>
+  <view class="view3"><text>紫薯饼</text></view>
+  <view class="view3"><text>南瓜饼</text></view>
+  <view class="view3"><text>豆沙饼</text></view>
+  <view class="view3"><text>酱香饼</text></view>
+  <view class="view3"><text>鸡蛋卷饼</text></view>
+  <view class="view3"><text>烧饼加鸡肉</text></view>
+  <view class="view3"><text>双加饼</text></view>
+  <view class="view3"><text>手抓饼</text></view>
+  <view class="view3"><text>韭菜馅饼</text></view>
+  <view class="view3"><text>土豆鸡蛋饼</text></view>
+  <view class="view3"><text>蛋挞</text></view>
+  <view class="view3"><text>芝麻球</text></view>
+  <view class="view3"><text>韭菜盒子</text></view>
+  <view class="view3"><text>小笼包</text></view>
+  <view class="view3"><text>玉米蒸饺</text></view>
+  <view class="view3"><text>烧麦</text></view>
+  <view class="view3"><text>猪肉白菜水饺</text></view>
+  <view class="view3"><text>香菇肉水饺</text></view>
+  <view class="view3"><text>韭菜鸡蛋水饺</text></view>
+  <view class="view3"><text>烤冷面</text></view>
+  <view class="view3"><text>紫薯三明治</text></view>
+  <view class="view3"><text>鸡蛋</text></view>
+  </view>
+  <view class="fontStyle2"><view class="view2"><text>午、晚餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>干锅花菜</text></view>
+  <view class="view3"><text>冬瓜丸子</text></view>
+  <view class="view3"><text>西红柿鸡蛋</text></view>
+  <view class="view3"><text>洋葱炒鸡蛋</text></view>
+  <view class="view3"><text>土豆炖鸡块</text></view>
+  <view class="view3"><text>鱼香肉丝</text></view>
+  <view class="view3"><text>香菇油菜</text></view>
+  <view class="view3"><text>肉沫茄子</text></view>
+  <view class="view3"><text>红烧日本豆腐</text></view>
+  <view class="view3"><text>西兰花炒肉</text></view>
+  <view class="view3"><text>孜然炸鸡</text></view>
+  <view class="view3"><text>卤鸡腿</text></view>
+  <view class="view3"><text>香辣土豆丝</text></view>
+  <view class="view3"><text>糖醋肉</text></view>
+  <view class="view3"><text>土豆片炒肉</text></view>
+  <view class="view3"><text>火腿炒鸡蛋</text></view>
+  <view class="view3"><text>水煮鱼片</text></view>
+  <view class="view3"><text>麻辣豆腐</text></view>
+  <view class="view3"><text>手撕包菜</text></view>
+  <view class="view3"><text>木须肉、小酥肉</text></view>
+</view>
+</view>
+ 
+
+
+
+
+
+
+
+
+
+
+
+

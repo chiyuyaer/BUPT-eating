@@ -1,0 +1,20 @@
+<!--pages/category/category.wxml-->
+<image class="backgroundImg" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607707895416&di=dc00d7777b97d47eecd0edced0d91fda&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F11186208570%2F1000.jpg" style="opacity:{{0.3}}"></image>
+<view class="h1">楼层索引</view>
+<view class="h2">学生食堂</view>
+<view class="container">
+  <button type="default" plain="true" bindtap="go">学生一层</button>
+  <button type="default" plain="true" bindtap="go2">学生二层（清真）</button>
+  <button type="default" plain="true" bindtap="go3">学生三层（基本伙）</button>
+  <button type="default" plain="true" bindtap="go4">学生四层</button>
+  <button type="default" plain="true" bindtap="go5">学生五层</button>
+</view>
+<view class="h2">教工食堂</view>
+<view class="container">
+  <button type="default" plain="true" bindtap="go6">教工一层</button>
+  <button type="default" plain="true" bindtap="go7">教工二层</button>
+  <button type="default" plain="true" bindtap="go8">教工三层</button>
+  <button type="default" plain="true" bindtap="go9">教工四层</button>
+  <button type="default" plain="true" bindtap="go10">教工五层</button>
+</view>
+

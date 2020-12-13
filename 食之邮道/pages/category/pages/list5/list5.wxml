@@ -1,0 +1,37 @@
+<!--pages/category/pages/list5/list5.wxml-->
+<view class="background5" style="opacity:{{0.9}}">
+
+<view class="fontStyle"><view class="view1"> <text>学生食堂五层</text> </view></view>
+
+<view class="fontStyle2"><view class="view2"><text>午,晚餐</text></view></view>
+
+<view class="fontStyle3">
+  <view class="view3"><text>麻辣香锅</text></view>
+  <view class="view3"><text>香河肉饼</text></view>
+  <view class="view3"><text>麻辣烫</text></view>
+  <view class="view3"><text>奥尔良烤鸡披萨</text></view>
+  <view class="view3"><text>意大利面</text></view>
+  <view class="view3"><text>刀削面</text></view>
+  <view class="view3"><text>烤肉饭</text></view>
+  <view class="view3"><text>芹菜炒粉</text></view>
+  <view class="view3"><text>鱼香肉丝</text></view>
+  <view class="view3"><text>尖椒炒豆干</text></view>
+  <view class="view3"><text>小鸡炖蘑菇</text></view>
+  <view class="view3"><text>虎皮凤爪</text></view>
+  <view class="view3"><text>水煮丸子</text></view>
+  
+  </view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+

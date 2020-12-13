@@ -1,0 +1,38 @@
+<!--pages/category/pages/list3/list3.wxml-->
+<view class="background3" style="opacity:{{0.9}}">
+
+<view class="fontStyle"><view class="view1"> <text>学生食堂三层(基本伙)</text> </view></view>
+
+<view class="fontStyle2"><view class="view2"><text>午,晚餐</text></view></view>
+
+<view class="fontStyle3">
+  <view class="view3"><text> 炝炒黄豆芽</text></view>
+  <view class="view3"><text>蒜蓉油菜</text></view>
+  <view class="view3"><text>牛肉炖胡萝卜</text></view>
+  <view class="view3"><text>白菜豆腐</text></view>
+  <view class="view3"><text>葱头炒鸡蛋</text></view>
+  <view class="view3"><text>地三鲜</text></view>
+  <view class="view3"><text>烤鸡腿</text></view>
+  <view class="view3"><text>焦溜丸子</text></view>
+  <view class="view3"><text>酸辣土豆丝</text></view>
+  <view class="view3"><text> 圆白菜炒粉条</text></view>
+  <view class="view3"><text>番茄鸡柳</text></view>
+  <view class="view3"><text>樟茶鸭</text></view>
+  <view class="view3"><text>鸡块炖粉条</text></view>
+  <view class="view3"><text>炒合菜</text></view>
+  
+  </view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+

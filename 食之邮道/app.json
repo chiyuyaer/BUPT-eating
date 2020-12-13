@@ -1,0 +1,53 @@
+{
+  "pages":[
+    "pages/mine/mine", 
+    "pages/home/home",
+    "pages/category/category",
+    "pages/category/pages/list1/list1", 
+    "pages/category/pages/list2/list2", 
+    "pages/category/pages/list3/list3", 
+    "pages/category/pages/list4/list4", 
+    "pages/category/pages/list5/list5", 
+    "pages/category/pages/list6/list6", 
+    "pages/category/pages/list7/list7", 
+    "pages/category/pages/list8/list8", 
+    "pages/category/pages/list9/list9", 
+    "pages/category/pages/list10/list10", 
+    "pages/pinglun/pinglun"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#9CDBED",
+    "navigationBarTitleText": "食之邮道",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/mine/mine",
+      "text": "登录",
+      "iconPath": "icon/all.jpg",
+      "selectedIconPath": "icon/all.jpg"
+    },
+    {
+      "pagePath": "pages/home/home",
+      "text": "首页",
+      "iconPath": "icon/=home.jpg",
+      "selectedIconPath": "icon/home.jpg"
+    },
+    {
+      "pagePath": "pages/category/category",
+      "text": "沙邮餐饮",
+      "iconPath": "icon/=tips.jpg",
+      "selectedIconPath": "icon/tips.jpg"
+    },
+    {
+      "pagePath": "pages/pinglun/pinglun",
+      "text": "选择困难终结者",
+      "iconPath": "icon/=mine.jpg",
+      "selectedIconPath": "icon/mine.jpg"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

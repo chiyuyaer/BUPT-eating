@@ -1,0 +1,34 @@
+<view class="background9" style="opacity:{{0.9}}">
+<view class="fontStyle"><view class="view1"> <text>教工食堂四层——风味餐厅</text> </view></view>
+<view class="fontStyle2"><view class="view2"><text>午、晚餐</text></view></view>
+<view class="fontStyle3">
+<view class="view3"><text>铁板烧</text></view>
+  <view class="view3"><text>照烧鸡排</text></view>
+  <view class="view3"><text>韩式拌饭</text></view>
+  <view class="view3"><text>咖喱鸡肉</text></view>
+  <view class="view3"><text>芝士鸡肉</text></view>
+  <view class="view3"><text>黑椒烧肉</text></view>
+  <view class="view3"><text>北京烤鸭</text></view>
+  <view class="view3"><text>旋转小火锅</text></view>
+  <view class="view3"><text>水煮系列</text></view>
+  <view class="view3"><text>铁板饭</text></view>
+  <view class="view3"><text>黄焖鸡</text></view>
+  <view class="view3"><text>麻辣烫</text></view>
+  <view class="view3"><text>米线</text></view>
+  <view class="view3"><text>烤肉饭</text></view>
+  </view>
+</view>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

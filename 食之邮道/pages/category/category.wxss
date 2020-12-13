@@ -1,0 +1,31 @@
+/*pages/category/category.wxss*/
+.button-name:not([size='mini'])
+{
+  /*修改宽高*/
+  height:100rpx;
+  width:90%;
+}
+button{
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+}
+.button-sp-area{
+  margin:10 auto;
+  width:80%;
+}
+.h1{
+  font-size:1.8em;/*定义字体大小*/
+  text-align:center;/*定义文本居中*/
+  color: rgba(rgba(0, 0, 255, 0.877) );
+}
+.h2{
+  font-size:1.5em;/*定义字体大小*/
+  text-align:center;/*定义文本居中*/
+  color: rgba(rgba(71, 13, 13, 0.986));
+}
+.backgroundImg{
+  width:100vw;
+  height:220vh;
+  overflow:hidden;
+  position:absolute;
+}

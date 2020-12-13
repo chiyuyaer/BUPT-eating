@@ -1,0 +1,29 @@
+<view class="background10" style="opacity:{{0.9}}">
+<view class="fontStyle"><view class="view1"> <text>教工食堂五层——零点餐厅</text> </view></view>
+<view class="fontStyle2"><view class="view2"><text>午、晚餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>打卤面</text></view>
+  <view class="view3"><text>麻辣烫</text></view>
+  <view class="view3"><text>麻辣拌</text></view>
+  <view class="view3"><text>猪肉大葱水饺</text></view>
+  <view class="view3"><text>韭菜鸡蛋水饺</text></view>
+  <view class="view3"><text>鸡米花蛋包饭</text></view>
+  <view class="view3"><text>香菇鸡肉蛋包饭</text></view>
+  <view class="view3"><text>麦香鸡肉蛋包饭</text></view>
+  <view class="view3"><text>黑椒牛肉蛋包饭</text></view>
+  <view class="view3"><text>咖喱牛肉蛋包饭</text></view>
+  <view class="view3"><text>滑蛋牛肉蛋包饭</text></view>
+  <view class="view3"><text>烤肉千叶豆腐蛋包饭</text></view>
+  </view>
+</view>
+  
+
+
+
+
+
+
+
+
+
+

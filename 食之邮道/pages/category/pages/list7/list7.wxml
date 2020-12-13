@@ -1,0 +1,103 @@
+<view class="background7" style="opacity:{{0.9}}">
+<view class="fontStyle"><view class="view1"> <text>教工食堂二层——（基本伙餐厅）</text> </view></view>
+<view class="fontStyle2"><view class="view2"><text>早餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text> 烧麦</text></view>
+  <view class="view3"><text>肉夹馍</text></view>
+  <view class="view3"><text>小笼包</text></view>
+  <view class="view3"><text>油条</text></view>
+  <view class="view3"><text>馅饼</text></view>
+  <view class="view3"><text>鸡蛋夹饼</text></view>
+  <view class="view3"><text>火腿夹饼</text></view>
+  <view class="view3"><text>大肉包</text></view>
+  <view class="view3"><text>素包</text></view>
+  <view class="view3"><text>蒸饺</text></view>
+  <view class="view3"><text>锅贴</text></view>
+  <view class="view3"><text>南瓜饼</text></view>
+  <view class="view3"><text>玉米鸡蛋饼</text></view>
+  <view class="view3"><text>蔬菜鸡蛋饼</text></view>
+  <view class="view3"><text>豆腐脑</text></view>
+  <view class="view3"><text>豆浆</text></view>
+  <view class="view3"><text>黑米粥</text></view>
+  <view class="view3"><text>皮蛋瘦肉粥</text></view>
+  
+  </view>
+  <view class="fontStyle2"><view class="view2"><text>午、晚餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>酱扒茄子</text></view>
+  <view class="view3"><text>锅仔萝卜羊肉</text></view>
+  <view class="view3"><text>精品麻辣香锅</text></view>
+  <view class="view3"><text>尖椒肉片</text></view>
+  <view class="view3"><text>烤鸭</text></view>
+  <view class="view3"><text>冬瓜肉片</text></view>
+  <view class="view3"><text>烤全腿</text></view>
+  <view class="view3"><text>可乐鸡翅</text></view>
+  <view class="view3"><text>炖菜</text></view>
+  <view class="view3"><text>歌乐山辣子鸡</text></view>
+  <view class="view3"><text>粉条红烧肉</text></view>
+  <view class="view3"><text>麻辣藕片</text></view>
+  <view class="view3"><text>酱爆鸭</text></view>
+  <view class="view3"><text>小炒肉</text></view>
+  <view class="view3"><text>红烧牛肉</text></view>
+  <view class="view3"><text>奥尔良鸡排</text></view>
+  <view class="view3"><text>黑椒肉片</text></view>
+  <view class="view3"><text>辣子鸡丁</text></view>
+  <view class="view3"><text>鱼香肉丝</text></view>
+  <view class="view3"><text>小炒骨肉相连</text></view>
+  <view class="view3"><text>香酥鸡</text></view>
+  <view class="view3"><text>清蒸鱼</text></view>
+  <view class="view3"><text>红烧鱼</text></view>
+  <view class="view3"><text>炸鸡柳</text></view>
+  <view class="view3"><text>糖醋里脊</text></view>
+  <view class="view3"><text>咸蛋黄玉米粒</text></view>
+  <view class="view3"><text>香酥鸭</text></view>
+  <view class="view3"><text>老鸭汤</text></view>
+  <view class="view3"><text>山药排骨汤</text></view>
+  <view class="view3"><text>西红柿炒鸡蛋</text></view>
+  <view class="view3"><text>口水鸡</text></view>
+  <view class="view3"><text>土豆红烧肉</text></view>
+  <view class="view3"><text>清炒西兰花</text></view>
+  <view class="view3"><text>粉丝娃娃菜</text></view>
+  <view class="view3"><text>香辣里脊</text></view>
+  <view class="view3"><text>小炒千叶豆腐</text></view>
+  <view class="view3"><text>三鲜玉米粒</text></view>
+  <view class="view3"><text>黄金大鸡腿</text></view>
+  <view class="view3"><text>排骨汤</text></view>
+  <view class="view3"><text>孜然鸭腿</text></view>
+  <view class="view3"><text>干锅菜花</text></view>
+  <view class="view3"><text>水蒸蛋</text></view>
+  <view class="view3"><text>木耳鸡蛋</text></view>
+  <view class="view3"><text>剁椒鸡蛋</text></view>
+  <view class="view3"><text>蒸鲜玉米</text></view>
+  <view class="view3"><text>蒸紫薯</text></view>
+  <view class="view3"><text>粉蒸牛肉</text></view>
+  <view class="view3"><text>干锅花菜</text></view>
+  <view class="view3"><text>香辣土豆片</text></view>
+  <view class="view3"><text>鱼香茄条</text></view>
+  <view class="view3"><text>白菜粉条</text></view>
+  <view class="view3"><text>扒丝土豆</text></view>
+  <view class="view3"><text>木耳白菜</text></view>
+  <view class="view3"><text>木耳鸡蛋</text></view>
+  <view class="view3"><text>黑椒牛柳</text></view>
+  <view class="view3"><text>小炒五花肉</text></view>
+  <view class="view3"><text>猪肉粉条</text></view>
+  </view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

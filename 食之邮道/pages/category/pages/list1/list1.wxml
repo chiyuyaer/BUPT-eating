@@ -1,0 +1,54 @@
+<!--pages/category/pages/list1/list1.wxml-->
+<view class="background1" style="opacity:{{0.9}}">
+<view class="fontStyle"><view class="view1"> <text>学生食堂一层</text> </view></view>
+<view class="fontStyle2"><view class="view2"><text>早餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text> 豆浆</text></view>
+  <view class="view3"><text>紫米粥</text></view>
+  <view class="view3"><text>南瓜粥</text></view>
+  <view class="view3"><text>肉包子，素包子</text></view>
+  <view class="view3"><text>玉米饼</text></view>
+  <view class="view3"><text>油条</text></view>
+  <view class="view3"><text>煎蛋</text></view>
+  <view class="view3"><text>双夹</text></view>
+  <view class="view3"><text>手抓饼</text></view>
+  <view class="view3"><text>麻团</text></view>
+  <view class="view3"><text>水煎包</text></view>
+  <view class="view3"><text>小笼包</text></view>
+  <view class="view3"><text>蒸饺</text></view>
+  <view class="view3"><text>韭菜煎饼</text></view>
+  <view class="view3"><text>炸糕</text></view>
+  <view class="view3"><text>烧卖</text></view>
+  
+  </view>
+  <view class="fontStyle2"><view class="view2"><text>午、晚餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>美味快餐</text></view>
+  <view class="view3"><text>盖浇饭</text></view>
+  <view class="view3"><text>醉骨饭</text></view>
+  <view class="view3"><text>卤肉饭</text></view>
+  <view class="view3"><text>脆皮鸡饭</text></view>
+  <view class="view3"><text>烤肉拌饭</text></view>
+  <view class="view3"><text>黄焖鸡饭</text></view>
+  <view class="view3"><text>港式铁板炒饭</text></view>
+  <view class="view3"><text>特色米粉</text></view>
+  <view class="view3"><text>酸辣粉</text></view>
+  <view class="view3"><text>五谷杂粮渔粉</text></view>
+  <view class="view3"><text>过桥米线</text></view>
+  <view class="view3"><text>杂粮煎饼</text></view>
+  <view class="view3"><text>功夫卷饼</text></view>
+  <view class="view3"><text>鸡蛋灌饼</text></view>
+  <view class="view3"><text>回味蛋肉堡</text></view>
+  <view class="view3"><text>苗香掉渣饼</text></view>
+  <view class="view3"><text>麻辣抄手</text></view>
+  <view class="view3"><text>老碗面</text></view>
+  <view class="view3"><text>烤冷面</text></view>
+  <view class="view3"><text>肉夹馍</text></view>
+  <view class="view3"><text>手抓饼</text></view>
+  <view class="view3"><text>麻辣香锅</text></view>
+  <view class="view3"><text>麻辣烫</text></view>
+  </view>
+</view>
+
+
+  

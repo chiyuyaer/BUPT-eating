@@ -1,0 +1,24 @@
+<view class="container">
+  <swiper indicator-dots='true' autoplay="true" interval="5000">
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../icon/1.jpg"></image>
+       
+      </view>
+    </swiper-item>
+
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../icon/2.jpg"></image>
+      </view>
+    </swiper-item>
+    <swiper-item>
+      <view class="item-container">
+        <image src="../../icon/3.jpg"></image>
+      </view>
+    </swiper-item>
+  </swiper>
+  <text class="introduction">这是一款全面介绍沙邮餐厅的小程序——“食之邮道”</text>
+
+</view>
+<image class="backgroundemm" src="https://wx3.sinaimg.cn/mw690/007qH2dkly1glmj8squt5j30l6cmjx6r.jpg" style="opacity:{{1.0}}"></image>

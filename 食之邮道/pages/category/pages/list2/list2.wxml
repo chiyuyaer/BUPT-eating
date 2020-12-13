@@ -1,0 +1,43 @@
+<!--pages/category/pages/list2/list2.wxml-->
+<view class="background2" style="opacity:{{0.9}}">
+
+<view class="fontStyle"><view class="view1"> <text>学生食堂二层(清真)</text> </view></view>
+
+<view class="fontStyle2"><view class="view2"><text>早餐</text></view></view>
+
+<view class="fontStyle3">
+  <view class="view3"><text> 土豆丝卷饼</text></view>
+  <view class="view3"><text>香酥饼</text></view>
+  <view class="view3"><text>椒盐饼</text></view>
+  <view class="view3"><text>韭菜饼</text></view>
+  <view class="view3"><text>小米粥</text></view>
+  <view class="view3"><text>八宝粥</text></view>
+  <view class="view3"><text>素包子</text></view>
+  <view class="view3"><text>油条</text></view>
+  <view class="view3"><text>五香鸡蛋</text></view>
+  </view>
+  <view class="fontStyle2"><view class="view2"><text>午餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>麻辣香锅</text></view>
+  <view class="view3"><text>咖喱加快</text></view>
+  <view class="view3"><text>鸡蛋羹</text></view>
+  <view class="view3"><text>孜然鸡丁</text></view>
+  <view class="view3"><text>西北辣子鸡</text></view>
+  <view class="view3"><text>素炒三鲜</text></view>
+  <view class="view3"><text>木须肉</text></view>
+  <view class="view3"><text>香芹肉片</text></view>
+ </view>
+
+
+  <view class="fontStyle2"><view class="view2"><text>晚餐</text></view></view>
+<view class="fontStyle3">
+  <view class="view3"><text>香辣鸡米花</text></view>
+  <view class="view3"><text>奥尔良鸡腿</text></view>
+  <view class="view3"><text>牙签肉</text></view>
+  <view class="view3"><text>剁椒西葫芦</text></view>
+  <view class="view3"><text>炒烤肉</text></view>
+  <view class="view3"><text>豆角炒肉</text></view>
+  <view class="view3"><text>醋溜白菜</text></view>
+</view>
+</view>
+

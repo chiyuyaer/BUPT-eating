@@ -1,0 +1,80 @@
+<!--pages/category/pages/list4/list4.wxml-->
+<view class="background4" style="opacity:{{0.9}}">
+
+<view class="fontStyle"><view class="view1"> <text>学生食堂四层</text> </view></view>
+
+<view class="fontStyle2"><view class="view2"><text>午,晚餐</text></view></view>
+
+<view class="fontStyle3">
+  <view class="view3"><text> 麻辣拌</text></view>
+  <view class="view3"><text>麻辣香锅</text></view>
+  <view class="view3"><text>麻辣烫</text></view>
+  <view class="view3"><text>烤盘酸菜五花肉</text></view>
+  <view class="view3"><text>烤盘肥羊</text></view>
+  <view class="view3"><text>烤盘肥牛</text></view>
+  <view class="view3"><text>烤盘鸡肉</text></view>
+  <view class="view3"><text>油泼面</text></view>
+  <view class="view3"><text>担担面</text></view>
+  <view class="view3"><text>手擀面</text></view>
+  <view class="view3"><text>牛肉面</text></view>
+  <view class="view3"><text>肥肠面</text></view>
+  <view class="view3"><text>水煮丸子</text></view>
+  <view class="view3"><text>水煮肥牛</text></view>
+  <view class="view3"><text> 酸菜鱼</text></view>
+  <view class="view3"><text>水煮鱼</text></view>
+  <view class="view3"><text>瓦罐汤</text></view>
+  <view class="view3"><text>黄焖排骨</text></view>
+  <view class="view3"><text>黄焖鸡</text></view>
+  <view class="view3"><text>芹菜腐竹</text></view>
+  <view class="view3"><text>香酥鸭</text></view>
+  <view class="view3"><text>土豆排骨</text></view>
+  <view class="view3"><text>土豆丝</text></view>
+  <view class="view3"><text>土豆鸡块</text></view>
+  <view class="view3"><text>红烧肉</text></view>
+  <view class="view3"><text>麻婆豆腐</text></view>
+  <view class="view3"><text>小油菜</text></view>
+  <view class="view3"><text>辣子鸡</text></view>
+  <view class="view3"><text>梅菜扣肉</text></view>
+  <view class="view3"><text>鸡米花</text></view>
+  <view class="view3"><text>西红柿鸡蛋</text></view>
+  <view class="view3"><text>鸡柳</text></view> 
+  <view class="view3"><text>锡纸花甲粉</text></view>
+  </view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
